@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue10.6"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   name="issue 10.5_html"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="cover10-6.jpg"
+   text-time="2007-10-18T23:38:39.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="189dbbbab3deeff23ccbcbc51c0bb905"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:33.000000Z"/>
+<entry
+   name="mayday_files"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="cover10-6.GIF"
+   text-time="2007-10-18T23:38:39.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="0ccf11929da4f5fbb7e5b48aaf274cbd"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:33.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mayday.html"
+   text-time="2007-10-18T23:38:39.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="0fa506cf3a318947491a02e44a8a5eed"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10.6.pdf"
+   text-time="2007-10-18T23:38:39.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="f9426980c250db26a414be96eb3aec7d"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:39.000000Z"/>
+</wc-entries>

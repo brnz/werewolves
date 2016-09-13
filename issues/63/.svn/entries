@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue6.3"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="garment.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="2019c24cfb963561a2b27f180dcc9e67"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ednote.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="56222d656e16e941e6b618b14be2bd7e"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="airport.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="a631e786e2952e4ad48b8cca278f2108"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rice.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="f46a6f52884882b50edc0732e0d1dee1"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="boycott.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="272422472ba60e48fb7d050c7303b1c9"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="suicide.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="360f0a57db22bcbb4902165bad550c43"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:22.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="8e1688b6f9297fb00ce4c50b0d02b927"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="lisa.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="3bf56fd6719034e1c1d637f92e5668ab"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ee.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="2c9b27f923f7a4263dd5163c5a131573"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="template.html"
+   text-time="2007-10-18T23:39:23.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="25ff37605ebe3c9ca3bd3f8bb49ab0fd"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:23.000000Z"/>
+</wc-entries>

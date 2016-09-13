@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue10.1"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="10.1.pdf"
+   text-time="2007-10-18T23:38:10.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="1f4eb64d0e742b50eb621e2dc650ce69"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-10.1.JPG"
+   text-time="2007-10-18T23:38:10.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="10bbc3b7e2e9940d843f798a6458685e"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+</wc-entries>

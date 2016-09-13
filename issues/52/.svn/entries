@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue5.2"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="52-14-36views.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="427c7ef6c5c519caae0cffdc65a5e985"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-03-asianam.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="bcf075053650b030514806cfe887550b"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-02-pilprof.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="203a77e5c167689cbbb9f8af984d8aea"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-01-sfpil.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="5fdbfd83654bdbf9a92d0046205b6e28"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-13-goodfight.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="8819c796b8d82120fabd99c4359ca1ae"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-5.2.gif"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="a5156260227d92a5a5d378f5b04392f5"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-11-thrice.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="88adbea8a5034b95e00bf0c25ebd732a"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-06-districtlines.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="62916fdb6b98d158e46302b3f64da9b8"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-12-pilmedia.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="718295e42474bc0b5bf05c6ed5781659"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-07-ucla.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="4cef526788fdd91ad752e19078ba82d8"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-10-cha.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="855cb822585d565fe14cbd501fad407d"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="contents.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="b246e0fa812dba9b1f001a46ada6b415"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-05-lies.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="c303c32a077e0f27e02c9c33279783f6"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-15-dj.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="d32785be574b75483d3ab159abb8232d"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="5a04b43fa4fb5a4ecb525dbd14611a93"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-09-blood.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="59c0ba9194c0857e3aaae8b556215a04"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-08-victorwong.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="591d5b23196c21e36e83a3980e8452af"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="52-04-usthem.html"
+   text-time="2007-10-18T23:38:54.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="b29d4856f6d21a805218f2c9a9d2e165"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:54.000000Z"/>
+</wc-entries>

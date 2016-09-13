@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue5.3"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="53-07-protestant.html"
+   text-time="2007-10-18T23:39:14.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="6dac34b001ec12a0cb69e31dec2944bd"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-02-smile.html"
+   text-time="2007-10-18T23:39:14.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="fdc73987ff03130bde99465fea8abda6"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tapioca2.jpg"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="e2f016ecfeec7365d717fccedc2e4b24"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-5.3.gif"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="222fae7889e6b33854ce12c6ef593dd0"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="letters.html"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="7bc77a328347940f06bcb1f61fe627d1"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-01-airport.html"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="03be482b2c1e477638ac42c0660f15a2"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-09-confs.html"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="98b192b142b2b83c389218e062b69ee9"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-08-male.html"
+   text-time="2007-10-18T23:39:15.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="414d4f359fb180ff4f14a8c527476900"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-04-lagaan.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="bc4ffa78e6a8142be935ac0fbbdaff26"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hb53master.pmd"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="aa368a405ea6ca54b6d5615f7cb58877"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-05-naata.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="e4215f3bdc2f84a127832cabdf9a88c2"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-03-monsoon.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="038609fe4bbb3b7f62456d7348bf843e"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-5.3.jpg"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="ffa8dbc79eb1b3133cf482f6b116beaf"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-10-boba.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="80fdc9918b953cdc8d671c7ca2131fd2"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="9fb1ca724b0077360403d24df0ea32e0"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="53-06-bhangra.html"
+   text-time="2007-10-18T23:39:16.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="62d9bdb995907a9c36200c836fb13b0a"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:14.000000Z"/>
+</wc-entries>

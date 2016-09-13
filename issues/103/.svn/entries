@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue10.3"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="10_3_exitclov.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="045360b2a0d1346ad2a6f4c86c22295e"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_greek.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="eb107749881b64632e2f4060cedb01f6"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_secretarygeneral.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="12d17249a7c0be704a5755ee90e0be9d"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_searching.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="9cf2fcc7c6507178a1a01c3bee312e6f"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10.3.pdf"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="2a5a2e46df6a6a7ebc46be774bc906a4"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_baseball.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="fdc6962c1d6c7e9ae00bd9c47b2d3c82"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_technologytoxics.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="7f87db1c33dedb51c999205e6265f573"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_thimmakka.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="53129ed31c4b32e3ceeeba83af6dcc7b"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_poison.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="0b0663b9f86e92625c651972d5885946"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_sextrafficking.html"
+   text-time="2007-10-18T23:38:19.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="1b8b2ddefc93efc646e7b6317737ad19"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_waribashi.html"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="35eb2012843a697f1965ecc437083b4c"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_memoirs.html"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="ab5c33317fa64f619c368e9349186fb5"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-10.3.gif"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="bd0a93640be2cfbffa600020a07248e3"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_asianamfarm.html"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="aaa18e2c815027b2d0b9f0eafef48c38"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:18.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="c9604662a4acd7fc98fa1974aa7035cb"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:19.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10_3_politics.html"
+   text-time="2007-10-18T23:38:20.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="ddbc3e495669eb38890bb075a6dc9816"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:19.000000Z"/>
+</wc-entries>

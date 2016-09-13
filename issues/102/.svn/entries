@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue10.2"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="10-2-abuse.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="2202fe728bcfcfe5cffaae11e697ac32"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-motel.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="301ab45a2e5cca777d9b94260b98cbfe"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-10.2.gif"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="81297c88c3ba3f2b9ec0bf473b66b710"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-angelis.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="42f5b4903cbe61be27cb30188fdaf721"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-price.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="c65810239f7a16aebe73ebd535e1fbfd"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-dat.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="4d89bd1c876dd5973bbddb6550ab6a60"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10.2.pdf"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="52ab0809315a2e808613b74b6444e62c"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-hapa.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="7975dc0c9a03307774f801848f57e473"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="edd34a7be29d61164f6b88237b17d9c0"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="10-2-bebot.html"
+   text-time="2007-10-18T23:38:12.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="118a5fc2b791abc32fb6a6724ed91c32"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:38:12.000000Z"/>
+</wc-entries>

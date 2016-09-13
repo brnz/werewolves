@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-01T22:41:09.432000Z"
+   url="http://svn.whatcodecraves.com/hardboiled/trunk/issue6.5"
+   last-author="jollyjerry"
+   kind="dir"
+   uuid="857be725-753b-0410-99a1-9b6acd2e2c9b"
+   revision="9"/>
+<entry
+   committed-rev="1"
+   name="65.pdf"
+   text-time="2007-10-18T23:39:49.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="8ff7331f050e9f3ce655520409f24aeb"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Thumbs.db"
+   text-time="2007-10-18T23:39:49.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="84f25273c38d8075365e046a30af68bb"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cover-6.5.GIF"
+   text-time="2007-10-18T23:39:49.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="0f36aaa0e21e4d09f309692fc50475bc"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="65.gif"
+   text-time="2007-10-18T23:39:49.000000Z"
+   committed-date="2007-10-01T22:41:09.432000Z"
+   checksum="e576d056718d0f24ef4fabd41430da7a"
+   last-author="jollyjerry"
+   kind="file"
+   prop-time="2007-10-18T23:39:49.000000Z"/>
+</wc-entries>

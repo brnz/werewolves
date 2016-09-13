@@ -1,0 +1,189 @@
+
+
+2010-02-27 09:17:31 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'page' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-27 09:17:37 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:31:56 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '627-autosave' AND hb2010_posts.post_parent = 627  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:32:39 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '627-autosave' AND hb2010_posts.post_parent = 627  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:33:20 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '534-autosave' AND hb2010_posts.post_parent = 534  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:33:52 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '534-autosave' AND hb2010_posts.post_parent = 534  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:34:14 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '627-autosave' AND hb2010_posts.post_parent = 627  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 09:34:31 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '627-autosave' AND hb2010_posts.post_parent = 627  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 10:57:46 
+search_everything plugin: 
+global where:  AND (hb2010_posts.post_author = 16) AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'draft')
+
+2010-02-27 11:08:55 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:30:18 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '635-autosave' AND hb2010_posts.post_parent = 635  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:31:24 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:31:38 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:32:29 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:32:33 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:33:31 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:34:49 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'page' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-27 11:35:06 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '635-autosave' AND hb2010_posts.post_parent = 635  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:35:08 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:35:11 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:35:34 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:36:01 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '635-autosave' AND hb2010_posts.post_parent = 635  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:36:20 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:36:41 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:37:09 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '635-autosave' AND hb2010_posts.post_parent = 635  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:37:22 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:37:35 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:38:00 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '635-autosave' AND hb2010_posts.post_parent = 635  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:38:46 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:38:58 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:40:10 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '637-autosave' AND hb2010_posts.post_parent = 637  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 11:45:45 
+search_everything plugin: 
+global where:  AND (hb2010_posts.post_author = 16) AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'draft')
+
+2010-02-27 11:46:12 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'page' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-27 11:52:29 
+search_everything plugin: 
+global where:  AND (hb2010_posts.post_author = 16) AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'draft')
+
+2010-02-27 11:53:07 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'page' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-27 11:53:15 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '609-autosave' AND hb2010_posts.post_parent = 609  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-27 23:58:34 
+search_everything plugin: 
+global where:  AND (hb2010_posts.post_author = 16) AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'draft')
+
+2010-02-28 00:01:40 
+search_everything plugin: 
+global where:  AND (hb2010_posts.post_author = 16) AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'draft')
+
+2010-02-28 00:01:51 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'page' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-28 00:01:58 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-28 00:02:08 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '659-autosave' AND hb2010_posts.post_parent = 659  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-28 00:17:02 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '659-autosave' AND hb2010_posts.post_parent = 659  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-28 00:17:13 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
+
+2010-02-28 00:18:22 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '659-autosave' AND hb2010_posts.post_parent = 659  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-28 00:19:27 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '659-autosave' AND hb2010_posts.post_parent = 659  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-28 00:20:27 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_name = '659-autosave' AND hb2010_posts.post_parent = 659  AND hb2010_posts.post_type = 'revision' AND (hb2010_posts.post_status = 'inherit')
+
+2010-02-28 00:21:04 
+search_everything plugin: 
+global where:  AND hb2010_posts.post_type = 'post' AND (hb2010_posts.post_status = 'publish' OR hb2010_posts.post_status = 'future' OR hb2010_posts.post_status = 'draft' OR hb2010_posts.post_status = 'pending' OR hb2010_posts.post_status = 'private')
